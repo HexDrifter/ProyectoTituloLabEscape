@@ -1,0 +1,16 @@
+{
+    "name": "LabEscape.Domain",
+    "rootNamespace": "LabEscape.Domain",
+    "references": [
+        "GUID:dc29e74d3ae4c214698738ce8ca4ffc4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

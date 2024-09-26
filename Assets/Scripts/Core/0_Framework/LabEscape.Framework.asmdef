@@ -1,0 +1,18 @@
+{
+    "name": "LabEscape.Framework",
+    "rootNamespace": "LabEscape.Framework",
+    "references": [
+        "GUID:0b515ca409244ba449501aa7f0f5c473",
+        "GUID:3d6a1f5443131304582ad836b5ff3de3",
+        "GUID:dc29e74d3ae4c214698738ce8ca4ffc4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
